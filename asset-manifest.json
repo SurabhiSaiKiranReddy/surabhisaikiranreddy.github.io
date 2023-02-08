@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.c284e410.js",
+    "main.js": "/static/js/main.36799e1a.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/surabhi_sai_kiran_reddy.png": "/static/media/surabhi_sai_kiran_reddy.3e12e3a1d89114cf7f28.png",
     "static/media/kaiser.png": "/static/media/kaiser.bdc76ec606346b024978.png",
@@ -10,11 +10,11 @@
     "static/media/opentext.png": "/static/media/opentext.47f735843a855766c13c.png",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.c284e410.js.map": "/static/js/main.c284e410.js.map",
+    "main.36799e1a.js.map": "/static/js/main.36799e1a.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.c284e410.js"
+    "static/js/main.36799e1a.js"
   ]
 }
