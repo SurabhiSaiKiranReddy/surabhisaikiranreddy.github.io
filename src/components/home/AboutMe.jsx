@@ -41,7 +41,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
             <img
               className="border border-secondary rounded-circle"
               src={profilePicUrl}
-              alt="profilepicture"
+              alt="surabhi sai kiran reddy Houston"
               width={imgSize}
               height={imgSize}
             />
